@@ -3,7 +3,7 @@
   "description": "Gauge custom com valor, meta e máximo",
   "url": "index.html",
   "developer": {
-    "name": "Seu Nome"
+    "name": "Luan Nascimento"
   },
   "data": {
     "metrics": [
@@ -20,5 +20,19 @@
         "description": "Valor máximo"
       }
     ]
-  }
+  },
+  "style": [
+    {
+      "id": "titulo",
+      "label": "Título",
+      "elements": [
+        {
+          "id": "fontSize",
+          "label": "Tamanho da fonte",
+          "type": "FONT_SIZE",
+          "defaultValue": "16"
+        }
+      ]
+    }
+  ]
 }
