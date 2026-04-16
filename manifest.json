@@ -1,0 +1,24 @@
+{
+  "name": "Gauge 3 Parametros",
+  "description": "Gauge custom com valor, meta e máximo",
+  "url": "index.html",
+  "developer": {
+    "name": "Seu Nome"
+  },
+  "data": {
+    "metrics": [
+      {
+        "name": "Valor",
+        "description": "Valor atual"
+      },
+      {
+        "name": "Meta",
+        "description": "Meta"
+      },
+      {
+        "name": "Max",
+        "description": "Valor máximo"
+      }
+    ]
+  }
+}
